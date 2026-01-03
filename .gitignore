@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+models/
+.env
+
+# Output
+*.json
+*.log
+*.wav
+*.mp4
+*.webm
